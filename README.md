@@ -57,7 +57,7 @@ react-redux-albums/
 		photos.js
 		
 ```
-##Used API
+## Used API
 
 In this project we getting data from Fake Online REST API
 for more about it [JSONPlaceholder](https://jsonplaceholder.typicode.com/) 
